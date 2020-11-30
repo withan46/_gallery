@@ -7,11 +7,9 @@ year: 1946
 license_url: 'https://commons.wikimedia.org/wiki/File:Apple_Macintosh_Plus_mouse.jpg'
 license_text: Courtesy of wikimedia
 categories:
-  - Αρχέτυπα
   - input-device
   - Εργαλεία
 tags:
-  - Apple
   - mouse
-  - One-button
+  - Pad
 ---
